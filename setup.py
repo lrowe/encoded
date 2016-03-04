@@ -16,7 +16,7 @@ requires = [
     'elasticsearch',
     'future',
     'humanfriendly',
-    'jsonschema',
+    'jsonschema_serialize_fork',
     'loremipsum',
     'netaddr',
     'passlib',
